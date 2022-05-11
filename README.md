@@ -1,4 +1,4 @@
-# curriculum-databases-projects-template
+# Vet Clinic Database
 
 > This Repo is for Database module at microverse it's generated from an other template repo
 
