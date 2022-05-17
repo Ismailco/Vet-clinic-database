@@ -2,7 +2,7 @@
 
 > This Repo is for Database module at microverse it's generated from an other template repo
 
-
+![](./schema-diagram.png)
 ## Getting Started
 
 This repository includes files with plain SQL that can be used to recreate a database:
